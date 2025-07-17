@@ -52,4 +52,4 @@ Aspects of this frontend were made with Vercel's v0.
 
 ## Authors
 
-- [Snowy](https://github.com/snowypy) - Lead Developer & Maintainer
+- [Snowy](https://github.com/clarkpy) - Lead Developer & Maintainer
